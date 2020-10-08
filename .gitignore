@@ -9,7 +9,7 @@
 /coverage
 
 # debug
-.launch.json
+/.vscode/launch.json
 
 # production
 /build
